@@ -28,6 +28,5 @@ The base models, controllers, views and other files have been provided. There ar
 ![Dancing Daft Punk](http://i.giphy.com/ZCKh7knqLpc4M.gif)
 
 ## Does this need an update?
-Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-refactoring-views-with-helpers-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-refactoring-views-with-helpers-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
-<p data-visibility='hidden'>PHRG Refactoring Views With Helpers Lab</p>
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-refactoring-views-with-helpers-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-refactoring-views-with-helpers-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
